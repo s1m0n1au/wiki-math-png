@@ -1,7 +1,7 @@
 {
   "name": "wiki-math-png",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "author": "Simon Lau <ualnamnuhc@gmail.com>",
   "license": "MIT",
