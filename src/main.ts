@@ -4,4 +4,5 @@ const mathImages: NodeListOf<HTMLImageElement> = document.querySelectorAll(".mwe
 
 for (const mathImage of mathImages) {
   mathImage.src = mathImage.src.replace("svg", "png");
+  mathImage.src += '?.png';
 }
